@@ -15,7 +15,7 @@ btn.addEventListener("click", () => {
   const para = document.createElement("p");
   para.innerHTML = `
    <p contenteditable="true" class="input-box">
-          <img src="/images/delete.png" alt="" />
+          <img src="/note/images/delete.png" alt="" />
         </p>
   `;
   container.appendChild(para);
